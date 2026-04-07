@@ -31,8 +31,4 @@ jobs:
             **/.git*/**
             **/node_modules/**
             **/.github/**
-<<<<<<< HEAD
             **/lib/**
-=======
-            **/lib/**
->>>>>>> 19ae3799899a89480312d2128abd4af7cc7ec4f7
