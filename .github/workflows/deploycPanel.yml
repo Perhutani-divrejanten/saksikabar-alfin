@@ -13,7 +13,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        
       - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
@@ -41,9 +40,6 @@ jobs:
             AUDIT_REPORT.md
             PERBAIKAN_STATUS.md
             final-verification.ps1
-          preserve: |
-            **/lib/**
-
             fix-encoding.ps1
             rebrand-to-warta-janten.ps1
             replace-logo.ps1
