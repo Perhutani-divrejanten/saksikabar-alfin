@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Load Breaking News dari articles.json untuk index.html
  * Menampilkan breaking news dalam carousel dengan navigation buttons
  */
@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const breakingNewsCarousel = document.getElementById('breakingNewsCarousel');
     if (!breakingNewsCarousel) return;
 
-    fetch('articles.json')
+    fetch('/rticles.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load articles.json');
             return response.json();
@@ -49,6 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         })
         .catch(err => {
-            console.error('❌ Error loading breaking news:', err);
+            console.error('? Error loading breaking news:', err);
         });
 });
+

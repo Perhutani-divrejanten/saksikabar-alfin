@@ -152,7 +152,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!keywords.length) {
             // show all: prefer to show indexed list if available
             try {
-                const r = await fetch('articles.json');
+                const r = await fetch('/rticles.json');
                 if (!r.ok) throw new Error('no index');
                 const data = await r.json();
                 renderMatches(data);
@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         try {
-            const resp = await fetch('articles.json');
+            const resp = await fetch('/rticles.json');
             if (!resp.ok) throw new Error('no index');
             const data = await resp.json();
             
@@ -192,3 +192,4 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     })();
 });
+

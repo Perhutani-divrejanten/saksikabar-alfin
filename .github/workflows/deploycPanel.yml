@@ -25,14 +25,23 @@ jobs:
           local-dir: ./
           server-dir: ./
           timeout: 60000
-          dangerous-clean-slate: true
+          dangerous-clean-slate: false
           exclude: |
             **/.git*
             **/.git*/**
             **/node_modules/**
             **/.github/**
-<<<<<<< HEAD
             **/lib/**
-=======
-            **/lib/**
->>>>>>> 19ae3799899a89480312d2128abd4af7cc7ec4f7
+            *.bak*
+            articles_temp.json
+            .DS_Store
+            .env
+            .env.local
+            *.log
+            TROUBLESHOOTING.md
+            AUDIT_REPORT.md
+            PERBAIKAN_STATUS.md
+            final-verification.ps1
+            fix-encoding.ps1
+            rebrand-to-warta-janten.ps1
+            replace-logo.ps1

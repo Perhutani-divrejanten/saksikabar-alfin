@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', async function(){
     }
 
     try{
-        const resp = await fetch('articles.json');
+        const resp = await fetch('/rticles.json');
         if (!resp.ok) throw new Error('no index');
         const data = await resp.json();
         const counts = {};
@@ -83,3 +83,4 @@ document.addEventListener('DOMContentLoaded', async function(){
         try{ window.footerCategoriesPopulated = true; }catch(e){}
     }
 });
+
