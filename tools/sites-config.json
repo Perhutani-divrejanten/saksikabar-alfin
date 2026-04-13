@@ -31,13 +31,13 @@
     {
       "id": 3,
       "folderName": "site-03-portal3",
-      "siteName": "Warta Janten",
-      "email": "wartajanten@gmail.com",
-      "socialHandle": "wartajanten",
+      "siteName": "Indonesia Daily",
+      "email": "indonesiadaily@gmail.com",
+      "socialHandle": "indonesiadaily",
       "colors": {
-        "primary": "#065F46",
-        "dark": "#022C22",
-        "secondary": "#1E3A5F"
+        "primary": "#0F766E",
+        "dark": "#7F1F1F",
+        "secondary": "#134E4A"
       }
     },
     {
@@ -323,8 +323,8 @@
       "email": "fokusnusantara@gmail.com",
       "socialHandle": "fokusnusantara",
       "colors": {
-        "primary": "#065F46",
-        "dark": "#022C22",
+        "primary": "#0F766E",
+        "dark": "#7F1F1F",
         "secondary": "#6B3D51"
       }
     },
