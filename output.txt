@@ -1,0 +1,365 @@
+﻿Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Exception calling "Replace" with "4" argument(s): "Value cannot be null.
+Parameter name: evaluator"
+At C:\KULIAH\MAGANG\Magang di Perhutani\Janten Bersuara\rebrand-script.ps1:23 
+char:9
++         $content = [regex]::Replace($content, $pair.key, $pair.value, ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+Files changed:
+Main pages: 0
+Article pages: 0
+CSS: 0
+Package: 0
+Docs: 0
+
+Verification:
+Remaining 'Janten Bersuara' references: 8
+Remaining 'logo.png' references: 4
+New color usages: 0
+
+Rebrand Janten Bersuara selesai âo.
+

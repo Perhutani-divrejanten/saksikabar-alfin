@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Fetch articles.json dan render (use relative path)
-    fetch('articles.json')
+    fetch('/articles.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load articles.json');
             return response.json();
@@ -101,3 +101,4 @@ document.addEventListener('DOMContentLoaded', function() {
             // Fallback: keep existing hardcoded items jika JSON load gagal
         });
 });
+
